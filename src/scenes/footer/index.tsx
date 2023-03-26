@@ -18,7 +18,7 @@ const Footer = () => {
         </div>
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
-          <p className="my-5">Tempus metus mattis risus volutpat egestas.</p>
+          <p className="my-5">Tempus metus mattis risus volutpat egetas.</p>
           <p>(+995)551-1474XX</p>
         </div>
       </div>
