@@ -32,7 +32,7 @@ const benefits: Array<BenefitType> = [
 ];
 
 const container = {
-  hidden: [],
+  hidden: {},
   visible: {
     transition: { staggerChildren: 0.2 },
   },
